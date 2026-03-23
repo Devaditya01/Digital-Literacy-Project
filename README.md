@@ -31,7 +31,9 @@ As a Student Digital Ambassador, I have completed five tasks covering topics suc
 * Created a Google Form quiz on digital literacy
 * 📁 Folder: task-3-platforms/
 
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSePVIeIo6A9-9Qy6-3mJr1CX1mudpf_GJQeHGt0f8I2SFbN5w/viewform?usp=header
+🔗 Google Form Link: https://forms.gle/SEyHsuDGS8JsehK2A
+
+🔗 HackerRank Link: https://www.hackerrank.com/certificates/2c2bd9b9a3f1
 
 ## 🟢 Task 4: Email Etiquette & Communication
 
@@ -48,6 +50,11 @@ As a Student Digital Ambassador, I have completed five tasks covering topics suc
 ## 📄 Project Report
 
 * The complete project report is available in the report/ folder.
+  
+## 🔗 My Profiles
+- GitHub: https://github.com/Devaditya01
+- LinkedIn: https://www.linkedin.com/in/aditya-sharma-82b28a380
+- Kaggle: https://www.kaggle.com/devaditya01
 
 ## 💡 Key Learnings
 
